@@ -1,4 +1,4 @@
-# stronaint
+# stronainternetowa
 # TechShop
 
 ## Opis projektu
