@@ -10,3 +10,5 @@
 | Stworzenie README i dokumentacji |                                       | 0.5 h |
 | Testowanie            | Sprawdzanie działania strony i poprawki          | 1 h  |
 | Poprawki końcowe      | Ulepszenie wyglądu i błędów                      | 1 h  |
+
+Wykonanie : Kornelia Kostanek
